@@ -1,4 +1,4 @@
-# LLM AI Chatbot using Python and Google Gemini API
+#  AI Chatbot using Python and Google Gemini API
 
 A professional command-line AI chatbot built with Python and the Google Gemini API. The app accepts natural-language prompts, maintains conversation context during the current session, logs conversations, and keeps secrets out of source control with environment variables.
 
@@ -16,7 +16,7 @@ A professional command-line AI chatbot built with Python and the Google Gemini A
 ## Project Structure
 
 ```text
-llm-ai-chatbot/
+ai-chatbot/
 ├── app.py
 ├── chatbot.py
 ├── config.py
